@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-Please visit https://bthomas1228.github.io/ on git hub pages to see the app deployed. 
+Please visit https://bthomas1228.github.io/belly-button-challenge/ on git hub pages to see the app deployed. 
 
 If this doesn't work, from the git hub repository linked 'belly-button-challenge', please open the 'app_practice.js' file (the js directory within the static directory). Then open the index file with google chrome or other browser.
 
